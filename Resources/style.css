@@ -8,27 +8,37 @@ h1 {
   color: white;
 }
 
-}
-#title {
+.title {
   font-size: 70px;
   font-weight: bold;
 }
 
-#nav {
+.navtop {
   color; white;
   font-size: 18px;
-
-p {
-  font-size: 14px;
 }
 
+h2 {
+  font-size: 32px
+}
 
-#footer {
-  font-size: 11px;
+h3 {
+  font-size: 23px
+}
+
+p {
+  font-size: 14px
+}
+
+h4 {
+  font-size:
   color: white;
   background-color: dimgray;
 }
 
-#trademark {
+#navbottom {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
   text-align: left;
 }
